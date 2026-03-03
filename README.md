@@ -14,5 +14,5 @@ You can click the Preview link to take a look at your changes.
 
 - 微信群👇
 
-http://jyeontu.xyz:3003/viewImage/qrcode.jpeg
+[http://jyeontu.xyz:3003/viewImage/qrcode.png](http://jyeontu.xyz:3003/viewImage/qrcode.png)
 
