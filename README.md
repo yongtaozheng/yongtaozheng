@@ -12,7 +12,7 @@
 
 <br>
 
-### 📊 我的 GitHub 统计 | GitHub Stats
+### 📊 我的 GitHub Stats
 <p align="center">
   <img width="80%" src="https://streak-stats.demolab.com/?user=yongtaozheng&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" />
 </p>
