@@ -14,8 +14,6 @@
 
 ### 📊 我的 GitHub 统计 | GitHub Stats
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=yongtaozheng&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yongtaozheng&layout=compact&theme=tokyonight" />
   <img width="80%" src="https://streak-stats.demolab.com/?user=yongtaozheng&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" />
 </p>
 
@@ -43,11 +41,3 @@
     </td>
   </tr>
 </table>
-
-<br>
-
-### 🐍 我在 GitHub 上的贡献图 | My Contribution Graph
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/yongtaozheng/yongtaozheng/output/github-contribution-grid-snake.svg" alt="snake" />
-</p>
