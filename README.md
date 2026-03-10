@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://github.com/yongtaozheng">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=30F7F7&center=true&vCenter=true&width=550&lines=你好%2C+我是+@yongtaozheng+%F0%9F%91%8B" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=30F7F7&center=true&vCenter=true&width=550&lines=你好%2C+我是+@JYeontu+%F0%9F%91%8B" alt="Typing SVG" />
   </a>
 </div>
 
