@@ -12,16 +12,6 @@
 
 <br>
 
-### 🛠️ 我的技术栈 | Tech Stack
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,vue,react,nodejs,html,css,sass,webpack,vite,pinia,vscode,git&perline=7" />
-  </a>
-</p>
-
-<br>
-
 ### 📊 我的 GitHub 统计 | GitHub Stats
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=yongtaozheng&show_icons=true&theme=tokyonight" />
