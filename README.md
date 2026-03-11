@@ -24,7 +24,9 @@
   <tr>
     <td align="center">
       <p><strong>公众号：前端也能这么有趣</strong></p>
+      <br/>
       <img src="http://jyeontu.xyz/jvuewheel/img/gzhCode.44b5ecc7.jpg" width="180" alt="公众号二维码"/>
+      <br/>
       <p>☝️ 扫码关注，获取最新干货</p>
     </td>
     <td align="center">
