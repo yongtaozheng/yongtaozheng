@@ -22,11 +22,11 @@
 
 <div>
   <p><strong>公众号：前端也能这么有趣</strong></p>
-  <img src="http://jyeontu.xyz/jvuewheel/img/gzhCode.44b5ecc7.jpg" width="180" alt="公众号二维码"/>
+  ![http://jyeontu.xyz/jvuewheel/img/gzhCode.44b5ecc7.jpg](http://jyeontu.xyz/jvuewheel/img/gzhCode.44b5ecc7.jpg)
   <p>☝️ 扫码关注，获取最新干货</p>
 </div>
 <div>
   <p><strong>微信交流群</strong></p>
-    <img src="http://jyeontu.xyz:3003/viewImage/qrcode.png" width="180" alt="微信群二维码"/>
+  ![http://jyeontu.xyz:3003/viewImage/qrcode.png](http://jyeontu.xyz:3003/viewImage/qrcode.png)
   <p>☝️ 扫码加入，一起讨论</p>
 </div>
