@@ -34,3 +34,5 @@
     </td>
   </tr>
 </table>
+
+微信群二维码过期的话点击这里：http://jyeontu.xyz:3003/viewImage/qrcode.png
